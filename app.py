@@ -48,6 +48,9 @@ def proxy(path):
     response = Response(resp.content, resp.status_code, headers)
     return response
 
+@APP.route("/health")
+def healthcheck():
+    return "OK"
 
 if __name__ == "__main__":
     load_dotenv()
