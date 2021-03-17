@@ -28,7 +28,7 @@ toml==0.10.2              # via tox
 tox-pip-extensions==1.6.0
 tox==3.21.4
 typing-extensions==3.7.4.3  # via importlib-metadata
-urllib3==1.26.3           # via requests
+urllib3==1.26.4           # via requests
 virtualenv==20.4.2        # via tox
 werkzeug==1.0.1           # via flask
 zipp==3.4.0               # via importlib-metadata, importlib-resources
