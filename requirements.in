@@ -1,5 +1,3 @@
 flask
 requests
 python-dotenv
-tox
-tox-pip-extensions
