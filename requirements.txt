@@ -23,7 +23,7 @@ py==1.10.0                # via tox
 pyparsing==2.4.7          # via packaging
 python-dotenv==0.17.1
 requests==2.25.1
-six==1.15.0               # via tox, tox-pip-extensions, virtualenv
+six==1.16.0               # via tox, tox-pip-extensions, virtualenv
 toml==0.10.2              # via tox
 tox-pip-extensions==1.6.0
 tox==3.23.0
