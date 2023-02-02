@@ -32,7 +32,7 @@ typing-extensions==3.10.0.2
     # via importlib-metadata
 urllib3==1.26.9
     # via requests
-werkzeug==2.0.3
+werkzeug==2.2.2
     # via flask
 zipp==3.6.0
     # via importlib-metadata
