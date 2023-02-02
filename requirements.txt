@@ -22,7 +22,7 @@ itsdangerous==2.0.1
     # via flask
 jinja2==3.0.3
     # via flask
-markupsafe==2.0.1
+markupsafe==2.1.2
     # via jinja2
 python-dotenv==0.20.0
     # via -r requirements.in
